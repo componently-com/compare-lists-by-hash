@@ -1,0 +1,12 @@
+{
+  "name": "hash-lists",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Hash lists and count hash hits",
+  "bin": {
+    "count-hash-hits": "./bin/countHashHits.js",
+    "hash-file": "./bin/hashFile.js"
+  },
+  "author": "Daniel Bartholomae <daniel.bartholomae@componently.com>",
+  "license": "MIT"
+}
